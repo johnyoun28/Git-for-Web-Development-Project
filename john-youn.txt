@@ -1,4 +1,4 @@
-LINK TO FINISHED CODEPEN: https://codepen.io/johnyoun28/pen/NWNKBqw?editors=1100
+LINK TO FINISHED CODEPEN: https://codepen.io/johnyoun28/pen/zYrgmVQ?editors=1100
 
     1. What is Semantic HTML? 
     HTML that gives meaning to the content.
